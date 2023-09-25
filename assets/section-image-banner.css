@@ -479,3 +479,6 @@
     color: currentColor;
   }
 }
+h2.banner__heading.inline-richtext.h0 {
+  color: red;
+}
